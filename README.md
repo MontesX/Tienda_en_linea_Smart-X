@@ -41,7 +41,12 @@ El proyecto fue diseñado priorizando la claridad del flujo lógico y la separac
 
 ## Capturas 
 
-
+1. ![Captura_1](https://github.com/MontesX/Tienda_en_linea_Smart-X/blob/main/captura_1.png)
+2. ![Captura_2](https://github.com/MontesX/Tienda_en_linea_Smart-X/blob/main/captura_2.png)
+3. ![Captura_3](https://github.com/MontesX/Tienda_en_linea_Smart-X/blob/main/captura_3.png)
+4. ![Captura_4](https://github.com/MontesX/Tienda_en_linea_Smart-X/blob/main/captura_4.png)
+5. ![Captura_5](https://github.com/MontesX/Tienda_en_linea_Smart-X/blob/main/captura_5.png)
+6. ![Captura_6](https://github.com/MontesX/Tienda_en_linea_Smart-X/blob/main/captura_6.png)
 
 ## Autor 
 Desarrollado por **Paúl Montes** (MontesX)
